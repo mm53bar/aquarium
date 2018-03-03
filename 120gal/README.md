@@ -19,3 +19,15 @@ Fluval SP4
     
 ### Stand
 Based on design from [RocketEngineer](http://reefcentral.com/forums/showthread.php?t=1169964)
+
+### ATO
+  * ReefSupplies.ca [5G Auto Top-off kit](http://www.reefsupplies.ca/online-store/Complete-ATO-kit-5G.html)
+  * Very similar to setup from [Autotopoff.com](http://autotopoff.com/)
+
+### Dosing Pump
+Jebao DP-4
+  * Dosing [Thrive](http://nilocg.com/thrive)
+    * 1 pump for 10 gallons 2-3x per week
+    * 1 pump is 2ml
+    * 1 pump/10g * 120g = 12 pumps
+    * 2ml/pump * 12 pumps = 24ml
