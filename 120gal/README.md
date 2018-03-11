@@ -26,8 +26,11 @@ Based on design from [RocketEngineer](http://reefcentral.com/forums/showthread.p
 
 ### Dosing Pump
 Jebao DP-4
-  * Dosing [Thrive](http://nilocg.com/thrive)
+  * [Thrive](http://nilocg.com/thrive) - every 3 days
     * 1 pump for 10 gallons 2-3x per week
     * 1 pump is 2ml
     * 1 pump/10g * 120g = 12 pumps
     * 2ml/pump * 12 pumps = 24ml
+  * [Glutaraid](https://theplantguy.ca/collections/liquid/products/plantguys-glutaraid-2-liter-refill-seachem-excel-alternative) - every day
+    * 2ml for 10 gallons
+    * 2ml/10g * 120g = 24 ml
