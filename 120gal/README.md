@@ -7,7 +7,15 @@
   * Boesmani Rainbow
   * Praecox Rainbow
   * Spendida Rainbow
+  
+### Plants
 
+  * Valisneria
+  * Anubias Nana
+  * Cryptocoryne wendtii
+  * Hygropila Corymbosa
+  * Echinodorus 'Frans Stoffels'
+  
 ### Overflow
 Bean Animal overflow
   * 3 x 1" overflows to 1" pipes
