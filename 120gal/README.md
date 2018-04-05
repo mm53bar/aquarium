@@ -2,6 +2,12 @@
 
 60x26x18
 
+### Fish
+  * Male Bristlenose Pleco
+  * Boesmani Rainbow
+  * Praecox Rainbow
+  * Spendida Rainbow
+
 ### Overflow
 Bean Animal overflow
   * 3 x 1" overflows to 1" pipes
