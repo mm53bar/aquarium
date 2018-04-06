@@ -15,7 +15,7 @@
   * Cryptocoryne wendtii
   * Hygropila Corymbosa
   * Echinodorus 'Frans Stoffels'
-  * Rotala rotundifolia
+  * Rotala rotundifolia (Asia)
   
 ### Overflow
 Bean Animal overflow
