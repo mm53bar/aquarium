@@ -15,7 +15,7 @@
   * Cryptocoryne wendtii
   * Hygropila Corymbosa
   * Echinodorus 'Frans Stoffels'
-  * Limnophila sessiliflora
+  * Limnophila sessiliflora (Asia)
   
 ### Overflow
 Bean Animal overflow
