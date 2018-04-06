@@ -3,18 +3,18 @@
 60x26x18
 
 ### Fish
-  * Male Bristlenose Pleco
-  * Boesmani Rainbow
-  * Praecox Rainbow
-  * Spendida Rainbow
+  * Male Bristlenose Pleco (South America)
+  * Boesmani Rainbow (Indonesia)
+  * Praecox Rainbow (Indonesia)
+  * Spendida Rainbow (Australia)
   
 ### Plants
 
-  * Valisneria
-  * Anubias Nana
-  * Cryptocoryne wendtii
-  * Hygropila Corymbosa
-  * Echinodorus 'Frans Stoffels'
+  * Valisneria (Asia, Africa, Europe, and North America)
+  * Anubias Nana (Africa)
+  * Cryptocoryne wendtii (Asia)
+  * Hygropila Corymbosa (Asia)
+  * Echinodorus 'Frans Stoffels' (Hybrid)
   
 ### Overflow
 Bean Animal overflow
