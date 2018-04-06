@@ -15,6 +15,7 @@
   * Cryptocoryne wendtii
   * Hygropila Corymbosa
   * Echinodorus 'Frans Stoffels'
+  * Cryptocoryne usteriana (Asia)
   
 ### Overflow
 Bean Animal overflow
