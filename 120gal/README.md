@@ -48,3 +48,9 @@ Jebao DP-4
   * [Glutaraid](https://theplantguy.ca/collections/liquid/products/plantguys-glutaraid-2-liter-refill-seachem-excel-alternative) - every day
     * 2ml for 10 gallons
     * 2ml/10g * 120g = 24 ml
+    
+### CO2
+Co2 Art Pro-SE Series Dual Stage Regulator with Solenoid [from Aquarium Direct](https://www.aquariumdirect.ca/en/co2-equipment/1391-co2-art-pro-se-series-co2-regulator-.html)
+  * Intense Bazooka - 80mm Atomizer Co2 Diffuser [from Aquarium Direct](https://www.aquariumdirect.ca/en/co2-equipment/1370-intense-bazooka-atomizer-co2-diffuser.html)
+  * 10lb CO2 tank from Winning Wines Plus
+    * Started on Dec 8
